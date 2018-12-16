@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Poppins:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Poppins:100,200,300,400,500,600,700|Lobster:100,200,300,400,500,600,700');
 
 /* BODY */
 body {
@@ -24,12 +24,19 @@ header ul {
 }
 
 header a {
-    font-size: 15px;
+    font-size: 17px;
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    
+}    
+
+header a:hover {
+    text-decoration: none;
+    color: #ff851b;
 }
+ 
+    
+
 
 header li {
     
@@ -39,12 +46,44 @@ header li {
 
 .logo {
     float: left;
+    color: #FF851B;
+    font-family: "Lobster", sans-serif;
+    margin-bottom: 5px;
 }
 
 .logo h1 {
     margin: 0;
+    padding-bottom: 15px;
+}
+
+.home-button {
+   font: #FF851B;
 }
 
 header nav {
   float: right;  
 }
+
+/* MAIN SECTION */
+
+.main-photo {
+    background-image: url("../images/monkees.jpg");
+    min-height: 400px;
+    
+    width: 100%;
+}
+
+/* ASIDE */
+
+.subscribe {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 13px;
+}
+
+.subscribe h1 {
+    float: left;
+}
+
+
+
