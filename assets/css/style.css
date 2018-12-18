@@ -73,12 +73,14 @@ header nav {
     
 }
 
+
+
 /* ASIDE */
 
 aside {
     background-color: #35424a;
     color: #ffffff;
-    
+    height: 80px;
     border-top-color: #FF851B;
     border-top-width: 5px;
     border-top-style: solid;
@@ -92,8 +94,7 @@ aside {
 .email {
     color: black;
     float: right;
-    
-    
+    margin-top: -40px;
 }
 
 
@@ -101,6 +102,29 @@ aside {
 background-color: red;
 
 }
+
+/* MAIN CONTENT */
+
+.band-info {
+    text-align: center; 
+}
+
+audio {
+  -webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;  
+margin: 50px 50px 50px 50px;
+background-image: url("/assets/images/nuty.jpg");
+}
+
+
 /* FOOTER */
 
 footer {
@@ -113,7 +137,7 @@ footer {
 
 footer p {
     float: right;
-    margin-top: 30px;
+    margin-top: 28px;
     color: #ffffff;
 }  
     footer li {
