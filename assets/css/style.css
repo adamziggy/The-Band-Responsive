@@ -2,7 +2,7 @@
 
 /* BODY */
 body {
-    font-family: "Roboto", "Poppins", sans-serif;
+
     background-color: #f4f4f4;
 }
 
@@ -69,21 +69,122 @@ header nav {
 .main-photo {
     background-image: url("../images/monkees.jpg");
     min-height: 400px;
+    background-size: cover;
     
-    width: 100%;
 }
 
 /* ASIDE */
 
-.subscribe {
+aside {
     background-color: #35424a;
     color: #ffffff;
-    padding: 13px;
+    
+    border-top-color: #FF851B;
+    border-top-width: 5px;
+    border-top-style: solid;
 }
 
-.subscribe h1 {
+.subscribe {
     float: left;
+    
 }
 
+.email {
+    color: black;
+    float: right;
+    
+    
+}
+
+
+.button1 {
+background-color: red;
+
+}
+/* FOOTER */
+
+footer {
+    background: #35424a;
+    min-height: 85px;
+    border-top-color: #FF851B;
+    border-top-width: 5px;
+    border-top-style: solid;
+}
+
+footer p {
+    float: right;
+    margin-top: 30px;
+    color: #ffffff;
+}  
+    footer li {
+      margin-top:30px;  
+      width: 35px;
+      transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    
+      
+    }
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+   height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+   height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+   height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+   height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+   height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 50%;
+}
 
 
