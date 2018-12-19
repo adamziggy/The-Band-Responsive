@@ -134,6 +134,39 @@ audio {
     border-top-width: 8px;
 }
 
+.videos {
+  text-align: center;
+    font-family: "Lobster", sans-serif;
+    
+}
+
+video {
+    margin-bottom: 80px;
+    border-color: #FF851B;
+    border-bottom-width: 12px;
+    border-bottom-style: double;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-top-color: #35424a;
+    border-top-style: double;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-top-width: 12px;
+}
+
+iframe {
+    margin-bottom: 80px;
+     border-color: #FF851B;
+    border-bottom-width: 12px;
+    border-bottom-style: double;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-top-color: #35424a;
+    border-top-style: double;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-top-width: 12px;
+}
 
 
 
