@@ -107,22 +107,40 @@ background-color: red;
 
 .band-info {
     text-align: center; 
+    font-family: "Lobster", sans-serif;
+}
+
+.music {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
 }
 
 audio {
-  -webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
--moz-box-shadow: 2px 2px 4px 0px #006773;
--webkit-box-shadow:  2px 2px 4px 0px #006773;
-box-shadow: 2px 2px 4px 0px #006773;
--moz-border-radius:7px 7px 7px 7px ;
--webkit-border-radius:7px 7px 7px 7px ;
-border-radius:7px 7px 7px 7px ;  
-margin: 50px 50px 50px 50px;
-background-image: url("/assets/images/nuty.jpg");
+    margin-bottom: 50px;
+    border-color: #FF851B;
+    border-bottom-width: 8px;
+    border-bottom-style: double;
+    border-bottom-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+    border-top-color: #35424a;
+    border-top-style: double;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 35%;
+    border-top-width: 8px;
 }
+
+
+
+
+
+
+
+
 
 
 /* FOOTER */
