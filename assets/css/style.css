@@ -25,10 +25,6 @@ header ul {
 header a {
     font-size: 15px;
     color: #ffffff;
-    
-
-    
-    
 }    
 
 header a:hover {
@@ -37,13 +33,10 @@ header a:hover {
     
 }
  
-    
-
-
 header li {
- display: inline;
- padding: 20px 20px 20px 20px;
- font-family: "Poppins", sans-serif;
+  display: inline;
+  padding: 20px 20px 20px 20px;
+  font-family: "Poppins", sans-serif;
  
 }
 
@@ -94,7 +87,19 @@ header nav {
     border-top-style: solid;
 }
 
+/* CONTACT */
 
+.enquiry {
+  text-align: center;
+  font-family: "Lobster", sans-serif;
+  margin-top: 25px;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
    
 
 
@@ -106,17 +111,20 @@ header nav {
 .band-info {
     text-align: center; 
     font-family: "Lobster", sans-serif;
+    margin-top: 25px;
 }
 
 .music {
     text-align: center;
     font-family: "Lobster", sans-serif;
+    margin-top: 25px;
 }
-
 .title {
     text-align: center;
     font-family: "Poppins", sans-serif;
 }
+
+
 
 audio {
     margin-bottom: 50px;
@@ -135,6 +143,7 @@ audio {
 .videos {
   text-align: center;
     font-family: "Lobster", sans-serif;
+    margin-top: 25px;
     
 }
 
