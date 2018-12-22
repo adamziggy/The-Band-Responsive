@@ -108,6 +108,14 @@ button[type="submit"] {
 
 /* MAIN CONTENT */
 
+.img-rounded {
+    border:5px ridge #FF851B;
+    display: block;
+  margin: 25px auto 25px auto;
+}
+
+
+
 .band-info {
     text-align: center; 
     font-family: "Lobster", sans-serif;
