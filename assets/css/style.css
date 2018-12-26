@@ -81,7 +81,7 @@ header nav {
 
 .bottom-line {
     background-color: #35424a;
-    height: 80px;
+    height: 90px;
     border-top-color: #FF851B;
     border-top-width: 5px;
     border-top-style: solid;
@@ -111,7 +111,7 @@ button[type="submit"] {
 .img-rounded {
     border:5px ridge #FF851B;
     display: block;
-  margin: 25px auto 25px auto;
+  margin: 55px auto 55px auto;
 }
 
 
@@ -120,6 +120,10 @@ button[type="submit"] {
     text-align: center; 
     font-family: "Lobster", sans-serif;
     margin-top: 25px;
+}
+
+.main-text {
+   margin: 10px 10px 30px 10px;
 }
 
 .music {
@@ -199,16 +203,19 @@ footer {
     border-top-color: #FF851B;
     border-top-width: 5px;
     border-top-style: solid;
+     border-bottom-color: #FF851B;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+
 }
 
-footer p {
-    float: right;
-    margin-top: 28px;
-    color: #ffffff;
-}  
+
+
     footer li {
+      margin-left: 5px;
       margin-top:30px;  
       width: 35px;
+      margin-bottom: 15px;
       transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -271,4 +278,13 @@ footer p {
 
 /* MEDIA QUERIES */
 
+@media screen and (max-width: 768px) {
+.logo {
+margin-left: 100px;
+}
 
+.logo ul li a  {
+    float: right;
+    display: block;
+}
+}
