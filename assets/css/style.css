@@ -188,7 +188,15 @@ iframe {
 }
 
 
-/*----------FPHOTO PAGE----------*/
+/*----------PHOTO PAGE----------*/
+
+.photos {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    margin-top: 40px;
+    
+}
+
 .img-rounded {
     border:5px ridge #FF851B;
     display: block;

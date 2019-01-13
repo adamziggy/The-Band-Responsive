@@ -23,7 +23,7 @@ The user can also get in touch with The Monkees through the contact form on the 
 - As a new fan I want to explore the website so that I can expand my music taste.
 - As a fan I want to read their history so that I can improve my knowledge of the band.
 - As a user on the go I want to acces the website on my mobile so that I can view the content
-- anywhere I am.
+  anywhere I am.
 - As an event planner I want to use the contact form so that I can book the band.
 ___
 
@@ -56,18 +56,26 @@ ___
 
 ___
 
-## Testing
+## Credits 
 
-This project was tested variou
+### Content
+
+* The text for section "About The Band" was copied from The [Wikipedia website] (https://en.wikipedia.org/wiki/The_Monkees)
+
+* I have found a lot of resourses on websites such as: 
+ 
+[W3School](https://www.w3schools.com/)
+ 
+ [StackOverflow](https://stackoverflow.com/)
+
+### Media
+
+* The videos ,mp3's and photos were provided by [Code institute](https://codeinstitute.net/)
+
+### Acknowledgements
+
+* I received inspiration for this project from pages like (https://www.free-css.com/free-css-templates) and many more.
 
 
 
-
-
-
-
-
-___
-
-## Deployment
 
