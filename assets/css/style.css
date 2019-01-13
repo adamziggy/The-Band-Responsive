@@ -277,11 +277,7 @@ footer {
 }
 
 /*------MEDIA QUERIES---------*/
-@media screen and (max-width: 992px) {
-.logo {
-text-align: left;
- }
-}
+
 
 @media screen and (max-width: 992px) {
 .main-text1 {
@@ -289,11 +285,11 @@ text-align: left;
  }
 }
 
+
+
 @media screen and (max-width: 992px) {
-nav ul li a {
-    position: inherit;
-    text-align: center;
-    padding-right: 30px;
+.logo {
+    margin-left: 80px;
  }
 }
 
