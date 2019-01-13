@@ -34,7 +34,22 @@ This Website is divided into five pages:
 1. [Home page](https://preview.c9users.io/adamziggy/the-band-responsive/index.html): Main page of the website where you can find infos about the band and what they do these days.
 2. [Music page](https://preview.c9users.io/adamziggy/the-band-responsive/music.html): Page where you can listen to their music.
 3. [Video page](https://preview.c9users.io/adamziggy/the-band-responsive/video.html): Page where you can watch some of their video clips.
-4. [Photo page](https://the-band-responsive-adamziggy.c9users.io/photo.html.): On this Page you cal lookup the bands Photos and album covers.
-5. [Contact page](https://preview.c9users.io/adamziggy/the-band-responsive/contact.html?_c9_id=livepreview4&_c9_host=https://ide.c9.io): Page with contact form.You can book an event.
+4. [Photo page](https://preview.c9users.io/adamziggy/the-band-responsive/photo.html): On this Page you cal lookup the bands Photos and album covers.
+5. [Contact page](https://preview.c9users.io/adamziggy/the-band-responsive/contact.html): Page with contact form where you can book an event like Christmas party or Wedding.
 
 ___
+
+## Technologies Used
+
+* MOQUPS.COM 
+  (https://app.moqups.com/adamzygmunt.ie@gmail.com/ZrIAcHpFUT/view)
+
+* HTML
+
+* CSS
+
+* BOOTSTRAP 3.37
+  (https://getbootstrap.com/docs/3.3/getting-started/)
+
+* FONTAWESOME 
+  (https://fontawesome.com/v4.7.0/)
