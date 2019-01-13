@@ -6,6 +6,7 @@
 body {
 
     background-color: #f4f4f4;
+    
 }
 
 
@@ -117,13 +118,6 @@ button[type="submit"] {
     margin-top: 25px;
 }
 
-.img-rounded {
-    border:5px ridge #FF851B;
-    display: block;
-  margin: 55px auto 55px auto;
-}
-
-
 
 .band-info {
     text-align: center; 
@@ -193,6 +187,13 @@ iframe {
 }
 
 
+/*----------FPHOTO PAGE----------*/
+.img-rounded {
+    border:5px ridge #FF851B;
+    display: block;
+  margin: 55px auto 55px auto;
+  box-shadow: 10px 10px grey;
+}
 
 
 
@@ -276,7 +277,6 @@ footer {
 }
 
 /*------MEDIA QUERIES---------*/
-
 @media screen and (max-width: 992px) {
 .logo {
 text-align: left;
@@ -289,11 +289,12 @@ text-align: left;
  }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
 nav ul li a {
     position: inherit;
     text-align: center;
     padding-right: 30px;
  }
 }
+
 
