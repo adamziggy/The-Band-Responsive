@@ -66,9 +66,6 @@ h1 {
     padding-bottom: 15px;
 }
 
-.home-button {
-   font: #FF851B;
-}
 
 header nav {
   float: right;  
@@ -90,27 +87,6 @@ header nav {
 }
 
 
-
-
-
-/*----------CONTACT PAGE----------*/
-
-.enquiry {
-  text-align: center;
-  font-family: "Lobster", sans-serif;
-  margin-top: 25px;
-}
-
-button[type="submit"] {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    
-}
-   
-
-
-
-
 /*----------MUSIC PAGE----------*/
 
 .music {
@@ -123,11 +99,17 @@ button[type="submit"] {
 .band-info {
     text-align: center; 
     font-family: "Lobster", sans-serif;
-    margin-top: 25px;
+    margin-top: 35px;
+    
 }
 
 .main-text {
    margin: 10px 10px 30px 10px;
+   
+}
+
+.main-text1 {
+    padding-bottom: 150px;
 }
 
 
@@ -152,6 +134,8 @@ audio {
     border-top-width: 8px;
 }
 
+/*----------VIDEO PAGE----------*/
+
 .videos {
   text-align: center;
     font-family: "Lobster", sans-serif;
@@ -173,18 +157,11 @@ video {
     border-top-width: 12px;
 }
 
-iframe {
-    margin-bottom: 80px;
-     border-color: #FF851B;
-    border-bottom-width: 12px;
-    border-bottom-style: double;
-    border-bottom-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    border-top-color: #35424a;
-    border-top-style: double;
-    border-top-left-radius: 5%;
-    border-top-right-radius: 5%;
-    border-top-width: 12px;
+.more-videos {
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    margin-top: 25px;
+    padding-bottom: 40px;
 }
 
 
@@ -205,7 +182,19 @@ iframe {
 }
 
 
+/*----------CONTACT PAGE----------*/
 
+.enquiry {
+  text-align: center;
+  font-family: "Lobster", sans-serif;
+  margin-top: 25px;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
 
 
 
@@ -305,9 +294,12 @@ footer {
 
 @media screen and (max-width: 992px) {
 nav a {
- text-align: center;
-    
+ float: none;
+ display: block;
  }
 }
+
+
+
 
 
