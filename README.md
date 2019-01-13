@@ -5,7 +5,8 @@ ___
 This Milestone Project is about a 1960's rock band called The Monkees.
 The website provides an insight about the band for existing and new fans, giving 
 the user the opportunity to stay up to date and to book the band for events.
-##UX
+
+## UX
 ___
 
 This website is designed to meet the needs of people in search of information about the Monkees,
@@ -17,7 +18,7 @@ which are accessible through the page also. The icons for Facebook, Twitter, Ins
 are placed on the bottom left of the webpage. 
 The user can also get in touch with The Monkees through the contact form on the website. 
 
-##User Stories
+## User Stories
 
 - As a new fan I want to explore the website so that I can expand my music taste.
 - As a fan I want to read their history so that I can improve my knowledge of the band.
@@ -26,10 +27,14 @@ The user can also get in touch with The Monkees through the contact form on the 
 - As an event planner I want to use the contact form so that I can book the band.
 ___
 
-##Features
+## Features
 
 This Website is divided into five pages:
 
-1. [Home page](https://the-band-responsive-adamziggy.c9users.io/index.html.):Main page of the website where you can find infos about the band and what they do these days.
-2. [Music page](https://the-band-responsive-adamziggy.c9users.io/music.html.):Page where you can listen to their music.
-3. [Video page]()
+1. [Home page](https://preview.c9users.io/adamziggy/the-band-responsive/index.html): Main page of the website where you can find infos about the band and what they do these days.
+2. [Music page](https://preview.c9users.io/adamziggy/the-band-responsive/music.html): Page where you can listen to their music.
+3. [Video page](https://preview.c9users.io/adamziggy/the-band-responsive/video.html): Page where you can watch some of their video clips.
+4. [Photo page](https://the-band-responsive-adamziggy.c9users.io/photo.html.): On this Page you cal lookup the bands Photos and album covers.
+5. [Contact page](https://preview.c9users.io/adamziggy/the-band-responsive/contact.html?_c9_id=livepreview4&_c9_host=https://ide.c9.io): Page with contact form.You can book an event.
+
+___
