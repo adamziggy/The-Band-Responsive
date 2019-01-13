@@ -6,6 +6,7 @@
 body {
 
     background-color: #f4f4f4;
+    margin-bottom: 0;
     
 }
 
@@ -289,7 +290,15 @@ footer {
 
 @media screen and (max-width: 992px) {
 .logo {
-    margin-left: 80px;
+    text-align: center;
+    
+ }
+}
+
+@media screen and (max-width: 992px) {
+nav a {
+ text-align: center;
+    
  }
 }
 

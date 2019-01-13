@@ -35,7 +35,7 @@ This Website is divided into five pages:
 2. [Music page](https://preview.c9users.io/adamziggy/the-band-responsive/music.html): Page where you can listen to their music.
 3. [Video page](https://preview.c9users.io/adamziggy/the-band-responsive/video.html): Page where you can watch some of their video clips.
 4. [Photo page](https://preview.c9users.io/adamziggy/the-band-responsive/photo.html): On this Page you cal lookup the bands Photos and album covers.
-5. [Contact page](https://preview.c9users.io/adamziggy/the-band-responsive/contact.html): Page with contact form where you can book an event like Christmas party or Wedding.
+5. [Contact page](https://preview.c9users.io/adamziggy/the-band-responsive/contact.html): Page with contact form where you can book an events like Christmas parties or Weddings.
 
 ___
 
@@ -53,3 +53,21 @@ ___
 
 * FONTAWESOME 
   (https://fontawesome.com/v4.7.0/)
+
+___
+
+## Testing
+
+This project was tested variou
+
+
+
+
+
+
+
+
+___
+
+## Deployment
+
